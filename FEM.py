@@ -1,1 +1,0 @@
-import getfem as gf
